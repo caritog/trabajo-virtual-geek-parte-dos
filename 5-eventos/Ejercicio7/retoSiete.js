@@ -1,3 +1,6 @@
+
+//event delegation ---> ME FALTA AGREGARLE ÉSTO, PERO NO SÉ COMO COMENZAR 
+
 'use strict';
 
 // elemento de HTML
@@ -59,4 +62,3 @@ pelicula2.addEventListener('click', segundoLi);
 pelicula3.addEventListener('click', tercerLi);
 pelicula4.addEventListener('click', cuartoLi);
 pelicula5.addEventListener('click', quintoLi);
-
